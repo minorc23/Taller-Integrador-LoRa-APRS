@@ -1,7 +1,7 @@
 {
 	"beacons": [
 		{
-			"callsign": "TI0TEC-2",
+			"callsign": "TI0TEC2-7",
 			"symbol": "[",
 			"overlay": "/",
 			"micE": "",
@@ -19,7 +19,7 @@
 			}			
 		},
 		{
-			"callsign": "TI0TEC-2",
+			"callsign": "TI0TEC2-7",
 			"symbol": ">",
 			"overlay": "/",
 			"micE": "",
@@ -37,7 +37,7 @@
 			}
 		},
 		{
-			"callsign": "TI0TEC-2",
+			"callsign": "TI0TEC2-7",
 			"symbol": "b",
 			"overlay": "/",
 			"micE": "",
