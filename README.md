@@ -6,7 +6,7 @@
 
 Este repositorio contiene el firmware para un rastreador y estación APRS utilizando placas basadas en ESP32 con módulos LoRa y GPS. Basado en el proyecto original de [Richonguzman / CA2RXU LoRa APRS Tracker/Station](https://github.com/richonguzman/LoRa_APRS_Tracker), este proyecto incorpora varias mejoras y funcionalidades adicionales para ofrecer un rendimiento y versatilidad superior.
 
-## Funcionalidades Principales
+## Funcionalidades Principales de la placa LILYGO LoRa32
 
 - **Mensajería y Reportes Meteorológicos**:
   - Lectura, escritura y eliminación de mensajes mediante un teclado I2C o un teléfono.
@@ -40,11 +40,9 @@ Este repositorio contiene el firmware para un rastreador y estación APRS utiliz
 
 Para cualquier consulta detallada puedes consultar el repositorio original de RichonGuzman en [LoRa](https://github.com/richonguzman/LoRa_APRS_Tracker) para obtener guías detalladas sobre la instalación, configuración del rastreador, selección del entorno, carga del firmware y el sistema de archivos, y uso de la guía de menús del rastreador. También se proporcionan instrucciones para agregar módulos adicionales como teclado, BME280, LEDs y zumbadores.
 
-## Actualizaciones Recientes
+## Resultado del proyecto
 
-El proyecto se mantiene actualizado con frecuencia, incluyendo nuevas funciones y soporte para diferentes módulos de hardware. Algunos ejemplos recientes incluyen:
+En la siguiente imagen se muestra un recorrido de prueba observado en el sitio aprs.fi 
+![Alt text](images/repo.jpeg)
 
-- Soporte para la batería WEMOS ESP32 y módulos GPS.
-- Actualización para trabajar con la biblioteca Radiolib (LoRa).
-- Soporte para nuevos modelos de GPS y módulos LoRa.
 
